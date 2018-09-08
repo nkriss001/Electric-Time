@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Electric Time</string>
+    <string-array name="transports">
+        <item>--select transport--</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>GeoBlade 500</item>
+        <item>Hovertrax Hoverboard</item>
+        <item>MotoTec Skateboard</item>
+        <item>OneWheel</item>
+        <item>Razor Scooter</item>
+        <item>Segway Ninebot One S1</item>
+        <item>Segway i2 SE</item>
+        <item>Walking</item>
+    </string-array>
+</resources>
